@@ -1,0 +1,12 @@
+ID vozaca: 1
+Ime vozaca: erg
+Prezime vozaca: erg
+Broj vozacke dozvole: erg
+Godine iskustva: 5
+
+ID vozaca: 2
+Ime vozaca: erhe
+Prezime vozaca: herhe
+Broj vozacke dozvole: rher
+Godine iskustva: 5
+

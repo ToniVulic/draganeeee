@@ -1,0 +1,8 @@
+ID rute: 1
+ID kamiona: 1
+ID vozaca: 1
+Pocetna lokacija: awda
+Krajnja lokacija: wada
+Udaljenost: 152.00 km
+Trajanje rute: 2.00 h
+

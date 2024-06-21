@@ -1,0 +1,14 @@
+ID: 1
+Registracija: wefw
+Model: wefw
+Godina Proizvodnje: 123 godina
+Kilometraža: 7132 km
+Stanje Goriva: 215 l
+
+ID: 2
+Registracija: erh
+Model: erh
+Godina Proizvodnje: 15 godina
+Kilometraža: 13 km
+Stanje Goriva: 3 l
+

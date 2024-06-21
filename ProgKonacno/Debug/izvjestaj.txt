@@ -1,0 +1,39 @@
+===== Izvjestaj o Kamionima =====
+ID: 1
+Registracija: wefw
+Model: wefw
+Godina proizvodnje: 123
+Kilometraza: 7132
+Stanje goriva: 215
+
+ID: 2
+Registracija: erh
+Model: erh
+Godina proizvodnje: 15
+Kilometraza: 13
+Stanje goriva: 3
+
+
+===== Izvjestaj o Vozacima =====
+ID: 1
+Ime: erg
+Prezime: erg
+Broj vozacke dozvole: erg
+Godine iskustva: 5
+
+ID: 2
+Ime: erhe
+Prezime: herhe
+Broj vozacke dozvole: rher
+Godine iskustva: 5
+
+
+===== Izvjestaj o Rutama =====
+ID: 1
+Kamion ID: 1
+Vozac ID: 1
+Pocetna lokacija: awda
+Krajnja lokacija: wada
+Udaljenost: 152.00 km
+Trajanje: 2.00 sati
+
